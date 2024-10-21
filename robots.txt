@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dishydri.github.io/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/app/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/assets/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/css/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/includes/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/item/dishydri.txt.gz
+Sitemap: https://dishydri.github.io/src/dishydri.txt.gz
